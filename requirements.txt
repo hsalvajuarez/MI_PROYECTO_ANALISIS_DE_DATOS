@@ -1,4 +1,0 @@
-openyxl
-streamlit
-pandas
-matplotlib
